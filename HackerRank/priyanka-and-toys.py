@@ -1,4 +1,4 @@
-ls = [0]*10001
+ls = [0]*1000000
 length = input()
 costs = map(int,raw_input().split())
 for i in costs:
